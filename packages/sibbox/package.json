@@ -1,0 +1,45 @@
+{
+  "name": "sibbox",
+  "version": "0.0.1",
+  "description": "Responsive React grid system built with Styled System, with support for Emotion and Styled Components",
+  "main": "dist/index.js",
+  "keywords": [
+    "sibbox",
+    "flexbox",
+    "grid-styled",
+    "rebass",
+    "rebass-grid",
+    "layout",
+    "emotion",
+    "css",
+    "style"
+  ],
+  "scripts": {
+    "prepare": "sib-bundler"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.0",
+    "@emotion/styled": "^10.0.0",
+    "@styled-system/css": "^5.0.0",
+    "@styled-system/should-forward-prop": "^5.0.0",
+    "styled-system": "^5.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "author": "Sahil Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-rename-import": "^2.3.0"
+  },
+  "files": [
+    "dist/",
+    "styled-components/",
+    "package.json",
+    "package-lock.json"
+  ],
+  "repository": "git@github.com:sahilsharma2408/Design-System.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}

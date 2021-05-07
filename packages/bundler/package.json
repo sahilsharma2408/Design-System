@@ -1,6 +1,6 @@
 {
   "name": "@sahilsharma2408/bundler",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "bin": {
     "sib-bundler": "./index.js"
   },
@@ -12,7 +12,6 @@
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0"
   },
-  "gitHead": "f0f01843e9fb63ca69112d7e97a1451b27ee9e6c",
   "repository": "git@github.com:sahilsharma2408/Design-System.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
