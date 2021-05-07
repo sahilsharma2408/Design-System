@@ -32,6 +32,12 @@
   "devDependencies": {
     "babel-plugin-transform-rename-import": "^2.3.0"
   },
+  "files": [
+    "dist/",
+    "styled-components/",
+    "package.json",
+    "package-lock.json"
+  ],
   "repository": "git@github.com:sahilsharma2408/Design-System.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
