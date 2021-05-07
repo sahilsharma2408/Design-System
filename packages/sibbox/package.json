@@ -1,6 +1,6 @@
 {
   "name": "@sahilsharma2408/sibbox",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "Responsive React grid system built with Styled System, with support for Emotion and Styled Components",
   "main": "dist/index.js",
   "keywords": [
