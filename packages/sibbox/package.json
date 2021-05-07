@@ -1,5 +1,5 @@
 {
-  "name": "sibbox",
+  "name": "@sahilsharma2408/sibbox",
   "version": "0.0.1",
   "description": "Responsive React grid system built with Styled System, with support for Emotion and Styled Components",
   "main": "dist/index.js",
@@ -32,12 +32,6 @@
   "devDependencies": {
     "babel-plugin-transform-rename-import": "^2.3.0"
   },
-  "files": [
-    "dist/",
-    "styled-components/",
-    "package.json",
-    "package-lock.json"
-  ],
   "repository": "git@github.com:sahilsharma2408/Design-System.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
