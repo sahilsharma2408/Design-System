@@ -15,7 +15,8 @@
     "style"
   ],
   "scripts": {
-    "prepare": "sib-bundler"
+    "prepare": "sib-bundler",
+    "deploy": "npm publish"
   },
   "dependencies": {
     "@emotion/core": "^10.0.0",
