@@ -6,8 +6,7 @@ import {
   layout,
   typography,
   color,
-  flexbox,
-  
+  flexbox
 } from 'styled-system'
 import css, { get } from '@styled-system/css'
 import shouldForwardProp from '@styled-system/should-forward-prop'
